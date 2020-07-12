@@ -1,0 +1,1 @@
+This repo contains the problem as well as solution for the first problem in the Google's Kickstart Competition
